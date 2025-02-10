@@ -49,10 +49,7 @@ For detailed guidelines, refer to CONTRIBUTING.md.
 
 License
 This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
-
-Contact
-For questions or suggestions, please contact [Your Name] at [your.email@example.com].
-
+ 
 markdown
 Copy
 Edit
